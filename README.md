@@ -1,7 +1,7 @@
 # About Me
 
 - 👋 Hi, I’m Sahil Rajwar
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science,ML and AI
 - 🌱 I’m currently learning C++
 
 Twitter: [@justSahilRajwar](https://twitter.com/justSahilRajwar)
