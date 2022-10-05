@@ -4,7 +4,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning C++
 
-      Twitter: [@justSahilRajwar](https://twitter.com/justSahilRajwar)
+Twitter: [@justSahilRajwar](https://twitter.com/justSahilRajwar)
 
 <!---
 Sahil-Rajwar-2004/Sahil-Rajwar-2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
