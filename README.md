@@ -1,6 +1,6 @@
 # About Me
 
-- 👋 Hi, I’m @Sahil-Rajwar-2004
+- 👋 Hi, I’m Sahil Rajwar
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning C++
 
