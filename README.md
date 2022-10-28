@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Sahil Rajwar
 - 👀 I’m interested in Data Science,ML and AI
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C\C++
 
 Twitter: [@justSahilRajwar](https://twitter.com/justSahilRajwar)
 
