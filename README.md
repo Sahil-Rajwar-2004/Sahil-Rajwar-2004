@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/justsahilrajwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="justsahilrajwar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sahil-rajwar-707634244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-rajwar-707634244" height="30" width="40" /></a>
-<a href="https://kaggle.com/pseudo-ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pseudo-ds" height="30" width="40" /></a>
+<a href="https://kaggle.com/pseudods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pseudo-ds" height="30" width="40" /></a>
 <a href="https://instagram.com/justsahilrajwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justsahilrajwar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sahil-rajwar-2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahil-rajwar-2004" height="30" width="40" /></a>
 </p>
