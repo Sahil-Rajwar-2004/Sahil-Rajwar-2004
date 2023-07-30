@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Sahil Rajwar</h1>
-<h3 align="center">from INDIA</h3>
+<h3 align="center">Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-rajwar-2004&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-rajwar-2004" /> </p>
 
