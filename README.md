@@ -1,5 +1,4 @@
-<h1 align="center">Hey Everyone 👋, I'm Sahil Rajwar</h1>
-<h3 align="center">from INDIA</h3>
+<h3 align="center">love new techs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-rajwar-2004&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-rajwar-2004" /> </p>
 
@@ -7,16 +6,20 @@
 
 <p align="left"> <a href="https://twitter.com/justsahilrajwar" target="blank"><img src="https://img.shields.io/twitter/follow/justsahilrajwar?logo=twitter&style=for-the-badge" alt="justsahilrajwar" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 currently working **REACT**
 
-- 🌱 currently learning **REACT**
+- 🌱 currently learning **Web Development**
+
+- ⚡ Interests **AI, ML, Software Development, Data Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/justsahilrajwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="justsahilrajwar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sahil-rajwar-707634244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-rajwar-707634244" height="30" width="40" /></a>
-<a href="https://kaggle.com/pseudo-ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pseudo-ds" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/itssahil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="itssahil" height="30" width="40" /></a>
+<a href="https://kaggle.com/pseudods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pseudods" height="30" width="40" /></a>
 <a href="https://instagram.com/justsahilrajwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justsahilrajwar" height="30" width="40" /></a>
+<a href="https://medium.com/@justsahilrajwar2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@justsahilrajwar2004" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sahil-rajwar-2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahil-rajwar-2004" height="30" width="40" /></a>
 </p>
 
