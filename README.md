@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/justsahilrajwar" target="blank"><img src="https://img.shields.io/twitter/follow/justsahilrajwar?logo=twitter&style=for-the-badge" alt="justsahilrajwar" /></a> </p>
 
-- 🔭 currently working **REACT**
+- 🔭 currently working on **REACT and CV**
 
 - 🌱 currently learning **Web Development**
 
