@@ -1,12 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm <b><i><u>Sahil Rajwar</u></i></b></h1>
 <!-- <h3 align="center">from <b><i><u>Sahil Rajwar</u></i></b></h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-rajwar-2004&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-rajwar-2004" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-rajwar-2004" alt="sahil-rajwar-2004" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/justsahilrajwar" target="blank"><img src="https://img.shields.io/twitter/follow/justsahilrajwar?logo=twitter&style=for-the-badge" alt="justsahilrajwar" /></a> </p>
-
 - 🔭 currently working on **REACT and CV**
 
 - 🌱 currently learning **Web Development**
