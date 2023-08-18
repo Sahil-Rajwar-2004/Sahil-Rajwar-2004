@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Hey Everyone👋, I'm <u><i><u>Sahil Rajwar</u></i></u></h1>
+# Hey Everyone👋, I'm ***Sahil Rajwar***
 
 <p align="left"> <a href="https://twitter.com/justsahilrajwar" target="blank"><img src="https://img.shields.io/twitter/follow/justsahilrajwar?logo=twitter&style=for-the-badge" alt="justsahilrajwar" /></a></p>
 
