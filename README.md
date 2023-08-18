@@ -22,7 +22,7 @@
 
 ## Languages and Tools
 
-<a href="https://python.org" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/py.svg"/></a>&nbsp;
+<a href="https://python.org" target="blank_"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/py.svg"/></a>&nbsp;
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/django.svg"/></a>&nbsp;
 <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/flask.svg"/></a>&nbsp;
 <a href="https://www.tensorflow.org/" taeget = "_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/tensorflow.svg"/></a>&nbsp;
