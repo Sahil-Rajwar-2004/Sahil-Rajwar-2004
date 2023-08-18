@@ -1,28 +1,48 @@
-<h1 align="center">Hey Everyone 👋, I'm <b><i><u>Sahil Rajwar</u></i></b></h1>
-<!-- <h3 align="center">from <b><i><u>Sahil Rajwar</u></i></b></h3> -->
+<h1 style="text-align: center">Hey Everyone👋, I'm <u><i><u>Sahil Rajwar</u></i></u></h1>
 
-- 🔭 currently working on **REACT and CV**
+<p align="left"> <a href="https://twitter.com/justsahilrajwar" target="blank"><img src="https://img.shields.io/twitter/follow/justsahilrajwar?logo=twitter&style=for-the-badge" alt="justsahilrajwar" /></a></p>
+
+
+- 🔭 currently working **REACT+VITE and CV**
 
 - 🌱 currently learning **Web Development**
 
 - ⚡ Interests **AI, ML, Software Development, Data Science**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/justsahilrajwar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="justsahilrajwar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sahil-rajwar-707634244" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-rajwar-707634244" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/itssahil" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="itssahil" height="30" width="40" /></a>
-<a href="https://kaggle.com/pseudods" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pseudods" height="30" width="40" /></a>
-<a href="https://instagram.com/justsahilrajwar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justsahilrajwar" height="30" width="40" /></a>
-<a href="https://medium.com/@justsahilrajwar2004" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@justsahilrajwar2004" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sahil-rajwar-2004" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahil-rajwar-2004" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Connect with me:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-rajwar-2004&show_icons=true&locale=en&layout=compact" alt="sahil-rajwar-2004" /></p>
+- [Twitter](https://x.com/justSahilRajwar/)
+- [Instagram](https://instagram.com/justsahilrajwar/)
+- [StackOverflow](https://stackoverflow.com/users/16457809/itssahil/)
+- [Kaggle](https://kaggle.com/pseudods/)
+- [Linkedin](https://www.linkedin.com/in/sahil-rajwar-707634244/)
+- [Medium](https://medium.com/@justsahilrajwar2004/)
+- [LeetCode](https://leetcode.com/Sahil-Rajwar-2004/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-rajwar-2004&show_icons=true&locale=en" alt="sahil-rajwar-2004" /></p>
+## Languages and Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-rajwar-2004&" alt="sahil-rajwar-2004" /></p>
+<a href="https://python.org" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/py.svg"/></a>&nbsp;
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/django.svg"/></a>&nbsp;
+<a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/flask.svg"/></a>&nbsp;
+<a href="https://www.tensorflow.org/" taeget = "_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/tensorflow.svg"/></a>&nbsp;
+<a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/pytorch.svg"/></a>&nbsp;
+<a href="https://scikit-learn.org" taeget = "_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/scikit-learn.svg" width="50px"/></a>&nbsp;
+<a href="https://opencv.org/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/opencv.svg" width="45px"/></a>&nbsp;
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/cpp.svg" width="42px"/></a>&nbsp;
+<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/c.svg" width="42px"/></a>&nbsp;
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/mysql.svg"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/js.svg"/></a>&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/typescript.svg"/></a>&nbsp;
+<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/nodejs.svg"/></a>&nbsp;
+<a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/react.svg"/></a>&nbsp;
+<a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/vite.svg"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/html.svg"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/css.svg"/></a>&nbsp;
+<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/java.svg"/></a>&nbsp;
+<a href="https://www.linux.org/pages/download/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/linux.svg"/></a>&nbsp;
+<a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/ubuntu.svg" width="50px"/></a>&nbsp;
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/git.svg" width="50px"/></a>&nbsp;
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/bash.svg"/></a>&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/vscode.svg"/></a>&nbsp;
+<a href="https://neovim.io/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/neovim.svg"/></a>&nbsp;
