@@ -9,12 +9,14 @@
 
 - ⚡ Interests **AI, ML, Software Development, Data Science**
 
-
-## Connect with me:
+## Social Media
 
 - [Twitter](https://x.com/justSahilRajwar/)
 - [Instagram](https://instagram.com/justsahilrajwar/)
-- [StackOverflow](https://stackoverflow.com/users/16457809/itssahil/)
+
+## Others
+
+<!-- - [StackOverflow](https://stackoverflow.com/users/16457809/itssahil/) -->
 - [Kaggle](https://kaggle.com/pseudods/)
 - [Linkedin](https://www.linkedin.com/in/sahil-rajwar-707634244/)
 - [Medium](https://medium.com/@justsahilrajwar2004/)
@@ -22,7 +24,7 @@
 
 ## Languages and Tools
 
-<a href="https://python.org" target="blank_"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/py.svg"/></a>&nbsp;
+<a href="https://python.org" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/py.svg"/></a>&nbsp;
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/django.svg"/></a>&nbsp;
 <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/flask.svg"/></a>&nbsp;
 <a href="https://www.tensorflow.org/" taeget = "_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/tensorflow.svg"/></a>&nbsp;
