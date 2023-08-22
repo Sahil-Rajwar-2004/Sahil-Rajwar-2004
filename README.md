@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://twitter.com/justsahilrajwar" target="blank"><img src="https://img.shields.io/twitter/follow/justsahilrajwar?logo=twitter&style=for-the-badge" alt="justsahilrajwar" /></a></p>
 
 
-- 🔭 currently working **REACT+VITE and CV**
+- 🔭 currently working **REACT+VITE and ML**
 
 - 🌱 currently learning **Web Development**
 
