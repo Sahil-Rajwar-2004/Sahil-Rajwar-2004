@@ -15,10 +15,13 @@
 ## Others
 
 <!-- - [StackOverflow](https://stackoverflow.com/users/16457809/itssahil/) -->
-- [Kaggle](https://kaggle.com/pseudods/)
-- [Linkedin](https://www.linkedin.com/in/sahil-rajwar-707634244/)
-- [Medium](https://medium.com/@justsahilrajwar2004/)
-- [LeetCode](https://leetcode.com/Sahil-Rajwar-2004/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/pseudods/)  
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-rajwar-707634244/)  
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@justsahilrajwar2004/)  
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Sahil-Rajwar-2004/)  
 
 <!--## Languages and Tools
 
