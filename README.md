@@ -1,7 +1,5 @@
 # Hey Everyone👋, I'm ***Sahil Rajwar***
 
-<p align="left"> <a href="https://twitter.com/justsahilrajwar" target="blank"><img src="https://img.shields.io/twitter/follow/justsahilrajwar?logo=twitter&style=for-the-badge" alt="justsahilrajwar" /></a></p>
-
 
 - 🔭 currently working **REACT+VITE and ML**
 
@@ -11,8 +9,8 @@
 
 ## Social Media
 
-- [Twitter](https://x.com/justSahilRajwar/)
-- [Instagram](https://instagram.com/justsahilrajwar/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&username=your_username_here)](https://twitter.com/your_username_here)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&username=justsahilrajwar)](https://www.instagram.com/justsahilrajwar/)
 
 ## Others
 
