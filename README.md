@@ -22,7 +22,7 @@
 - [Medium](https://medium.com/@justsahilrajwar2004/)
 - [LeetCode](https://leetcode.com/Sahil-Rajwar-2004/)
 
-## Languages and Tools
+<!--## Languages and Tools
 
 <a href="https://python.org" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/py.svg"/></a>&nbsp;
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/django.svg"/></a>&nbsp;
@@ -47,4 +47,4 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/git.svg" width="50px"/></a>&nbsp;
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/bash.svg"/></a>&nbsp;
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/vscode.svg"/></a>&nbsp;
-<a href="https://neovim.io/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/neovim.svg"/></a>&nbsp;
+<a href="https://neovim.io/" target="_blank"><img src="https://raw.githubusercontent.com/Sahil-Rajwar-2004/SVGS/master/svgs/neovim.svg"/></a>&nbsp;-->
