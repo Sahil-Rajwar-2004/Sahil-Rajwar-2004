@@ -5,7 +5,7 @@
 
 - 🌱 currently learning **Web Development**
 
-- ⚡ Interests **AI, ML, Software Development, Data Science**
+- ⚡ Interests **AI, ML, Software Development & Data Science**
 
 ## Social Media
 
