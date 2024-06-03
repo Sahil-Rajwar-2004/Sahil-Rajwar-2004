@@ -1,9 +1,9 @@
 # Hey Everyone👋, I'm ***Sahil Rajwar***
 
 
-- 🔭 currently working **REACT+VITE and ML**
+- 🔭 currently working on **myself**
 
-- 🌱 currently learning **Web Development**
+- 🌱 currently learning **Machine Learning**
 
 - ⚡ Interests **AI, ML, Software Development & Data Science**
 
