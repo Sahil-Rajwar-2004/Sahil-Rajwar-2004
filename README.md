@@ -1,7 +1,7 @@
 # Hey Everyone👋, I'm ***Sahil Rajwar***
 
 
-- 🔭 currently working on **CUDA and DSA**
+- 🔭 currently working on **CUDA**
 
 - 🌱 currently learning **Machine Learning, CUDA, DSA**
 
