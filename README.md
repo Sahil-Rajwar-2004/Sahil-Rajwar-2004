@@ -1,4 +1,4 @@
-# Hey Everyone👋, I'm ***Sahil Rajwar***
+<h1 align="center">Hey Everyone👋, I'm <b><i>Sahil Rajwar</i></b></h1>
 
 
 - 🔭 currently working on **CUDA**
