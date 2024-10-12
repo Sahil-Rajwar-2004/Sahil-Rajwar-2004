@@ -5,7 +5,7 @@
 
 - 🌱 currently learning **Machine Learning, CUDA, DSA**
 
-- ⚡ Interests in **AI, ML, Software Development & Data Science**
+- ⚡ Interests in **AI, ML, Software Development & Digital Electronics**
 
 ## Social Media Handles
 
